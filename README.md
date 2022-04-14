@@ -141,6 +141,7 @@ Check Proxmox server to see VM
 3. Destory it with `terraform destroy --auto-approve`
 
 # Useful Resources
-
+* [Terraform Provider for Proxmox](https://registry.terraform.io/providers/Telmate/proxmox/latest/docs)
+* [Proxmmox User Creation Guide](https://registry.terraform.io/providers/Telmate/proxmox/latest/docs)
 
 
