@@ -89,8 +89,8 @@ resource "proxmox_vm_qemu" "cloudinit-test" {
 ## Create variables.tf file
 Variables declared here, which are defined in the .tfvars file.
 ``` tf
-variable PM_USER {} 
-variable PM_PASS {} 
+variable "PM_USER" {} 
+variable "PM_PASS" {} 
 variable "PM_URL" {}
 variable "PM_node" {} 
 variable "PM_template" {}

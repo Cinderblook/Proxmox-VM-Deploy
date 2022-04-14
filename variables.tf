@@ -1,5 +1,5 @@
-variable PM_USER {} 
-variable PM_PASS {} 
+variable "PM_USER" {} 
+variable "PM_PASS" {} 
 variable "PM_URL" {}
 variable "PM_node" {} 
 variable "PM_template" {}
