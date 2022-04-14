@@ -19,6 +19,7 @@
 
 # Ignored Terraform files
 #*gitignore*.tf
+*.tfvars
 
 # Ignore Mac .DS_Store files
 .DS_Store
